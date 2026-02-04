@@ -33,7 +33,7 @@ This guide includes:
 * Git identity validation
 
 📄 **View it here:**
-👉 [https://github.com/rishab0807/documentation/wiki/GitHub-Multi-Account-Setup-(WSL-Windows)](https://github.com/rishab0807/documentation/wiki/GitHub-Multi-Account-Setup-%28WSL-Windows%29)
+👉 [https://github.com/rishab0807/documentation/wiki/GitHub-Multi%E2%80%90Account-Setup-(WSL---Windows)](https://github.com/rishab0807/documentation/wiki/GitHub-Multi%E2%80%90Account-Setup-(WSL---Windows))
 
 ---
 
@@ -50,7 +50,7 @@ Covers:
 * Best practices for long-term maintenance
 
 📄 **View it here:**
-👉 [https://github.com/rishab0807/documentation/wiki/AWS-Multiple-Account-Profile-Setup-(Windows-WSL)](https://github.com/rishab0807/documentation/wiki/AWS-Multiple-Account-Profile-Setup-%28Windows-WSL%29)
+👉 [https://github.com/rishab0807/documentation/wiki/AWS-Multiple-Account-Profile-Setup-on-Windows-with-WSL](https://github.com/rishab0807/documentation/wiki/AWS-Multiple-Account-Profile-Setup-on-Windows-with-WSL)
 
 ---
 
